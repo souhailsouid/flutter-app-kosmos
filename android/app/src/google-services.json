@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487870823810",
+    "project_id": "kosmos-339908",
+    "storage_bucket": "kosmos-339908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487870823810:android:73513c8def1fb400a4e39b",
+        "android_client_info": {
+          "package_name": "com.souhail.kosmos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487870823810-voal840dmb2mnr1mab5l111q622pm53t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnEiwt4qNOtXKDNSBpyv7q7LOF3We7Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487870823810-voal840dmb2mnr1mab5l111q622pm53t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
